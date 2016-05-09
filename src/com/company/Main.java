@@ -11,6 +11,7 @@ public class Main extends JPanel implements Runnable {
     public Main(int length) {
         this.length = length;
         setDoubleBuffered(true);
+
     }
 
     @Override
